@@ -1,0 +1,1 @@
+CREATE SEQUENCE lotpg.account_id;
